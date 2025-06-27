@@ -1,6 +1,30 @@
-# myappflutter
+# Scaffolding Navigation Flutter App
 
-A new Flutter project.
+Una aplicación Flutter con navegación tipo Scaffold que incluye:
+
+- **Página de Inicio**: Contador interactivo con tema tipo Minecraft
+- **Lista**: ListView con elementos de ejemplo (cines y restaurantes)
+- **Cards**: Cards con información de recetas y diseño responsive
+- **Grid**: GridView con imágenes de animales y dialogs interactivos
+
+## Características
+
+- Diseño responsive para dispositivos móviles
+- Navegación con BottomNavigationBar y Drawer
+- Tema personalizado estilo Minecraft
+- Gestión de estado con StatefulWidget
+
+## Tecnologías
+
+- Flutter
+- Dart
+- Material Design
+
+## Instalación
+
+1. Clona este repositorio
+2. Ejecuta `flutter pub get`
+3. Ejecuta `flutter run`
 
 ## Getting Started
 
